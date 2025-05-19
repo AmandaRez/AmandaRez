@@ -1,29 +1,55 @@
-# 👩‍💻 Amanda Rezende Chaves
 
-🇵🇹 **Português** | 🇬🇧 **English below**
+# 👩‍💻 Amanda Chaves
 
-Olá! 👋  
-Sou a Amanda, uma profissional versátil com experiência sólida em Recursos Humanos, Treinamentos e, mais recentemente, Programação e Desenvolvimento de Software. Estou em processo de transição de carreira e à procura de novas oportunidades que me permitam unir minha experiência em gestão de pessoas com as competências técnicas que estou desenvolvendo em programação.
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif" />
 
-🌱 Atualmente, estou focada em projetos com **Python** e **Inteligência Artificial**, estudando Engenharia de Computação e aprofundando meus conhecimentos em **Machine Learning**.  
-🛠️ Tive a oportunidade de estagiar como desenvolvedora, onde contribui para projetos reais e desenvolvi habilidades práticas de programação.  
-🧠 Acredito que minha trajetória humana e comunicativa é um diferencial na área tecnológica.  
-📍 Vivo em Viseu, Portugal, e estou aberta a oportunidades presenciais ou remotas.
-
-🔗 Conecta comigo:  
-[LinkedIn](https://www.linkedin.com/in/amanda-chaves-6927201bb) | 📧 seisdedezembro@gmail.com
+| 🇵🇹 Português | 🇬🇧 English |
+|--------------|------------|
+| Olá Mundo! 👋🌎<br>Sou a Amanda, uma profissional versátil com experiência sólida em Recursos Humanos, Treinamentos e, mais recentemente, Programação e Desenvolvimento de Software. Estou em processo de transição de carreira e à procura de novas oportunidades que me permitam unir minha experiência em gestão de pessoas com as competências técnicas que estou desenvolvendo em programação.<br><br>🌱 Atualmente, estou focada em projetos com **Python** e **Inteligência Artificial**. Estudo Engenharia de Computação e estou a aprofundar os conhecimentos em **Machine Learning**.<br>🛠️ Tive a oportunidade de estagiar como desenvolvedora, onde contribui para projetos reais.<br>🧠 Acredito que minha trajetória humana e comunicativa é um diferencial na área tecnológica.<br>📍 Vivo em Viseu, Portugal, e estou aberta a oportunidades presenciais ou remotas. | Hello World! 👋🌎<br>I'm Amanda, a versatile professional with a solid background in Human Resources, Corporate Training, and, more recently, Software Development. I'm transitioning to the tech field and actively seeking opportunities where I can combine my people skills with my growing technical knowledge.<br><br>🌱 I'm currently working on **Python** and **Artificial Intelligence** projects, studying Computer Engineering and diving into **Machine Learning**.<br>🛠️ I’ve recently interned as a developer, contributing to real-world projects.<br>🧠 My human-centered background and communication skills are key assets in tech.<br>📍 Based in Viseu, Portugal, and open to on-site or remote roles. |
 
 ---
 
-🇬🇧 **English**
+### 📫 Let's connect
 
-Hi there! 👋  
-I'm Amanda, a versatile professional with a solid background in Human Resources, Corporate Training, and, more recently, Software Development. I'm currently transitioning my career to the tech field and actively seeking opportunities where I can combine my people skills with my growing technical knowledge.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amanda-chaves-6927201bb)  
+📧 rezendechavesamanda@gmail.com
 
-🌱 I'm currently focused on projects involving **Python** and **Artificial Intelligence**, studying Computer Engineering and diving into **Machine Learning**.  
-🛠️ I’ve recently interned as a developer, contributing to real-world software projects and building hands-on coding experience.  
-🧠 My human-centered approach and strong communication background are my key assets in the tech industry.  
-📍 Based in Viseu, Portugal, and open to both on-site and remote roles.
+---
 
-🔗 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/amanda-chaves-6927201bb) | 📧 seisdedezembro@gmail.com
+## 🚀 Tech Stack & Learning Path
+
+Ao longo da minha jornada, tive contacto com diversas linguagens, ferramentas e frameworks — tanto no contexto académico, quanto em experiências práticas e projetos pessoais. Estou sempre a aprender e a expandir minhas capacidades.
+
+### 🧩 Linguagens & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### 📊 Bases de Dados, Controlo de Versão e Serviços
+
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 🤖 Inteligência Artificial & Machine Learning
+
+Atualmente, estou a aprofundar os meus conhecimentos em:
+
+- Fundamentos de IA e algoritmos de Machine Learning
+- Manipulação de dados com Python (Pandas, NumPy)
+- Modelos supervisionados e não supervisionados
+- Aplicações práticas em projetos de aprendizagem
+
+---
+
+## 📈 GitHub Stats
+
+📌 *Stats will appear here as I become more active on GitHub. Exciting things are on the way!*
