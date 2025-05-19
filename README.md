@@ -1,4 +1,4 @@
-# 👩‍💻 Amanda Chaves
+# 👩‍💻 Amanda Rezende Chaves
 
 🇵🇹 **Português** | 🇬🇧 **English below**
 
